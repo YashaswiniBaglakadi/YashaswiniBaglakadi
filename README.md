@@ -3,7 +3,7 @@ Hi, I'm Yashaswini Banglakadi! 👋<br>She/her | Entry-Level Data Analyst | Open
 
 
 ##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashaswini-banglakadi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashaswini.b1805@gmail.com) [![Novypro](https://img.shields.io/badge/Novypro-%230077B5.svg?logo=Novypro&logoColor=white)](https://www.novypro.com/manage_projects/yashaswini-banglakadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yashaswini-banglakadi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashaswini.b1805@gmail.com) [![Novypro](https://img.shields.io/badge/Novypro-%230077B5.svg?logo=Novypro&logoColor=white)](https://www.novypro.com/manage_projects/yashaswini-banglakadi)
 
 ##  Tech Stack:
 ![Excel](https://img.shields.io/badge/excel-3670A0?style=for-the-badge&logo=Excel&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
